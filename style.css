@@ -1,0 +1,23 @@
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  background-color: var(--white);
+}
+
+main {
+  width: 90%;
+  margin: auto;
+}
+
+main img {
+  width: 100%;
+}
+
+/* Mobile: 375px - Desktop: 1440px+
